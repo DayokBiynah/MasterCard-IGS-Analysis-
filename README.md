@@ -1,2 +1,15 @@
-# MasterCard-IGS-Analysis-
-This project focuses on analyzing data for Mastercard to drive community growth, enhance economic inclusivity, and support sustainable development. Through data-driven insights, I assisted to explore strategies to empower underserved communities and promote economic opportunities. The analysis aims to contribute to Mastercard’s commitment to fostering inclusive economic systems.
+# 💳 MasterCard IGS Analysis
+
+This project analyzes data to support **Mastercard’s goals** of driving community growth, economic inclusivity, and sustainable development.
+
+## 📊 Goals
+- Identify opportunities to empower underserved communities
+- Support inclusive economic strategies with data insights
+
+## 🛠 Tools & Skills
+- Data cleaning & analysis
+- Excel / Python / SQL (adjust based on what you used)
+- Visualization & strategic reporting
+
+## 📈 Outcome
+Insights from this project contribute to Mastercard’s mission of fostering inclusive and sustainable economic systems.
