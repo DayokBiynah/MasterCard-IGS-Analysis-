@@ -13,3 +13,5 @@ This project analyzes data to support **Mastercard’s goals** of driving commun
 
 ## 📈 Outcome
 Insights from this project contribute to Mastercard’s mission of fostering inclusive and sustainable economic systems.
+
+⚠️ **Note:** I am unable to share the code and data used for this project as they are **private** and subject to **confidentiality restrictions**.
